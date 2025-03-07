@@ -1,0 +1,13 @@
+@media (max-width: 992px) {
+  .btns {
+    flex-direction: column;
+  }
+  .btns button{
+    margin-bottom: 8px;
+  }
+}
+@media (max-width: 767px) {
+  .registerForm {
+    width: 100% !important;
+  }
+}

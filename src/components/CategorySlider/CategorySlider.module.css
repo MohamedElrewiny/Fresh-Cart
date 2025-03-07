@@ -1,0 +1,10 @@
+.CategorySlider img,
+.CategorySlider h4 {
+  cursor: pointer;
+}
+
+@media (max-width: 1000px) {
+  .CategorySlider {
+    display: none;
+  }
+}

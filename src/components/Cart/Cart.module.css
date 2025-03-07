@@ -1,0 +1,6 @@
+@media (max-width: 550px) {
+  .counter button,
+  .counter span {
+    font-size: 15px !important;
+  }
+}
